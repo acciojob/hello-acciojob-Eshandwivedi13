@@ -1,2 +1,13 @@
+main{
+	height : "150px";
+	width : "150px";
+	background-color : "#000000";
+}
+p{
+		color : "#ffffff";
+		left-margin : "32px";
+		padding : "10px";
+}
+
 
 /* Your CSS Code here. */
